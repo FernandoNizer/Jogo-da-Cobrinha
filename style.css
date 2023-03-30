@@ -1,0 +1,26 @@
+
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+canvas {
+    background-color: white;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    width: 50vw;
+    max-width: 400px;
+    height: 35vh;
+    max-height: 400px ;
+}
+h3{
+    color: red;
+}
+em{
+    color:white;
+}
+#reload{
+    margin: 10px;
+    display: none;
+}
